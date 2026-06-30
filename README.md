@@ -130,26 +130,26 @@ const pyaeBhoneKhant = {
 ## 🤝 Connect With Me
 
 <div align="center">
-
 <a href="https://github.com/pyae-bhone-khant">
-  <img src="https://skillicons.dev/icons?i=github" />
-</a> 
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://t.me/YOUR_TELEGRAM_USERNAME" target="_blank">
-  <img src="https://img.icons8.com/color/96/telegram-app--v1.png" height="50" />
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank">
-  <img src="https://img.icons8.com/color/96/facebook-new.png" height="50" />
+<a href="https://t.me/YOUR_TELEGRAM_USERNAME">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
-<a href="https://www.tiktok.com/@YOUR_TIKTOK_USERNAME" target="_blank">
-  <img src="https://img.icons8.com/color/96/tiktok--v1.png" height="50" />
+<a href="https://facebook.com/YOUR_FACEBOOK_USERNAME">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
+
+<a href="https://www.tiktok.com/@YOUR_TIKTOK_USERNAME">
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+</a>
+
 
 </div>
 
