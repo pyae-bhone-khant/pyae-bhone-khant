@@ -1,170 +1,74 @@
 <div align="center">
-
-<img height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTR1NzhjbnJwdWlmb3Q5dzd4bTB4M3p4aW5mY2J3eXBvbDg5MDR2aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
-
-# 👋 Hi, I'm Pyae Bhone Khant
-
-### 🚀 Full Stack Developer | React • Next.js • Node.js • PostgreSQL
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Modern+Web+Applications;React+%7C+Next.js+%7C+Node.js;Always+Learning+New+Technologies" />
-
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="coding animation" />
 </div>
 
----
+<h1 align="center">Hi there, I'm Pyae Bhone Khant 👋</h1>
+<h3 align="center">An aspiring Full-Stack Web Developer passionate about building real-world applications.</h3>
 
-## 👨‍💻 About Me
-
-```javascript
-const pyaeBhoneKhant = {
-  role: "Full Stack Developer",
-  location: "Myanmar 🇲🇲",
-  frontend: [
-    "React 19",
-    "Next.js",
-    "Redux Toolkit",
-    "Zustand",
-    "Tailwind CSS",
-    "Shadcn UI",
-    "Material UI",
-    "Framer Motion"
-  ],
-  backend: [
-    "Node.js",
-    "Express.js",
-    "REST APIs",
-    "Socket.io",
-    "Node-Cron",
-    "Better Auth",
-    "Next Auth"
-  ],
-  database: [
-    "PostgreSQL",
-    "MySQL",
-    "Neon DB",
-    "Prisma ORM"
-  ],
-  caching: [
-    "Redis",
-    "BullMQ"
-  ],
-  testing: [
-    "Jest",
-    "Supertest"
-  ],
-  tools: [
-    "Git",
-    "GitHub",
-    "Docker",
-    "Axios"
-  ]
-};
-```
+<p align="center">
+  <a href="https://github.com/pyae-bhone-khant">
+    <img src="https://komarev.com/ghpvc/?username=pyae-bhone-khant&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+</p>
 
 ---
 
-## ⚡ Tech Stack
+<h3 align="left">👩‍💻 About Me</h3>
+
+<p align="left">
+  🌟 I'm a self-taught web developer dedicated to crafting modern, scalable, and responsive web applications.<br><br>
+  💡 I specialize in the modern JavaScript/TypeScript ecosystem, from sleek <strong>React & Next.js</strong> frontends to robust <strong>Node.js</strong> backends.<br><br>
+  🚀 Currently exploring new technologies and actively seeking <strong>Junior or Intern roles</strong> to bring my skills to a dynamic team.<br><br>
+  📫 Reach me at my GitHub: <a href="https://github.com/pyae-bhone-khant">@pyae-bhone-khant</a>
+</p>
+
+---
+
+<h3 align="left">🛠️ Master Technical Skills</h3>
+
+<p align="left"><strong>Languages</strong></p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts" height="50" alt="Languages" />
+</div>
+<br>
+
+<p align="left"><strong>Frontend Development</strong></p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui,redux" height="50" alt="Frontend" />
+</div>
+<p align="left">
+  <em>Ecosystem: React 19, Next.js (App Router), Redux Toolkit, Zustand, Tailwind CSS, Material UI (MUI), Shadcn UI, Framer Motion, AOS</em>
+</p>
+<br>
+
+<p align="left"><strong>Backend & Async Tasks</strong></p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,redis" height="50" alt="Backend" />
+</div>
+<p align="left">
+  <em>Ecosystem: Node.js, Express.js (v5), RESTful APIs, Better-Auth, Next-Auth, Socket.io, Node-Cron, Redis (ioredis), BullMQ</em>
+</p>
+<br>
+
+<p align="left"><strong>Database, ORM & Tools</strong></p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma,jest,git,docker" height="50" alt="Database and Tools" />
+</div>
+<p align="left">
+  <em>Ecosystem: PostgreSQL, MySQL, Neon DB, Prisma ORM, Jest, Supertest, Axios, Git/GitHub, Docker</em>
+</p>
+
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,materialui" />
-
-<br/><br/>
-
-### UI & Animation
-
-<img src="https://skillicons.dev/icons?i=figma" />
-
-<img src="https://img.shields.io/badge/Shadcn_UI-black?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Framer_Motion-blue?style=for-the-badge" />
-
-<br/><br/>
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,redis" />
-
-<br/><br/>
-
-### Database & ORM
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,prisma" />
-
-<br/><br/>
-
-### DevOps & Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,docker" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=pyae-bhone-khant&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Pyae Bhone Khant's GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pyae-bhone-khant&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
 
----
-
-## 🏆 Current Focus
-
-🌱 Learning Advanced Backend Architecture
-
-⚡ Building Scalable Full Stack Applications
-
-🔥 Mastering Redis, BullMQ & Queue Systems
-
-🚀 Exploring System Design & Microservices
-
----
-
-## 📊 GitHub Analytics
-
+<br>
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pyae-bhone-khant&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyae-bhone-khant&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/pyae-bhone-khant/pyae-bhone-khant/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pyae-bhone-khant&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="mailto:pyaebhonen4@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://github.com/pyae-bhone-khant">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Quote
-
-_"First, solve the problem. Then, write the code."_ ✨
-
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="hacker cat" />
 </div>
