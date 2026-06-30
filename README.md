@@ -133,6 +133,22 @@ const pyaeBhoneKhant = {
 
 <a href="https://github.com/pyae-bhone-khant">
   <img src="https://skillicons.dev/icons?i=github" />
+</a> 
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+</a>
+
+<a href="https://t.me/YOUR_TELEGRAM_USERNAME" target="_blank">
+  <img src="https://img.icons8.com/color/96/telegram-app--v1.png" height="50" />
+</a>
+
+<a href="https://facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank">
+  <img src="https://img.icons8.com/color/96/facebook-new.png" height="50" />
+</a>
+
+<a href="https://www.tiktok.com/@YOUR_TIKTOK_USERNAME" target="_blank">
+  <img src="https://img.icons8.com/color/96/tiktok--v1.png" height="50" />
 </a>
 
 </div>
