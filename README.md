@@ -94,7 +94,7 @@ A passionate developer dedicated to building high-performance, responsive, and v
 
 ## 📊 GitHub Performance Metrics
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pyae-bhone-khant&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Pyae Bhone Khant's GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pae-bhone-khant&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Pyae Bhone Khant's GitHub Stats" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pyae-bhone-khant&theme=dark&hide_border=true" alt="Pyae Bhone Khant's GitHub Streak" />
 </p>
 
