@@ -33,6 +33,7 @@ const pyaeBhoneKhant = {
   backend: [
     "Node.js",
     "Express.js",
+    "Nest.js",
     "REST APIs",
     "Socket.io"
   ],
@@ -71,7 +72,7 @@ const pyaeBhoneKhant = {
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,redis" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,redis" />
 </p>
 
 **Also:** Better Auth • Next Auth • Socket.io • Node Cron • BullMQ
