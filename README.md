@@ -99,9 +99,9 @@ const pyaeBhoneKhant = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pyae-bhone-khant&show_icons=true&theme=tokyonight)
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pyae-bhone-khant&show_icons=true&theme=tokyonight&hide_border=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pyae-bhone-khant&layout=compact&theme=tokyonight)
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pyae-bhone-khant&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
