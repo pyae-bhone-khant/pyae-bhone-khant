@@ -129,7 +129,7 @@ const pyaeBhoneKhant = {
 
 ## 🤝 Connect With Me
 
-<div align="center">
+<div align="center flex gap-2">
 <a href="https://github.com/pyae-bhone-khant">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
