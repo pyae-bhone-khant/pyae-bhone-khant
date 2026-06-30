@@ -8,7 +8,7 @@ A passionate developer dedicated to building high-performance, responsive, and v
 
 ---
 
-## 🕹️ Technologies in Motion (Animated Icons)
+## 🕹️ Technologies in Motion 
 
 <p align="center">
   <marquee behavior="scroll" direction="left" scrollamount="7">
